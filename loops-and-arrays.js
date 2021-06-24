@@ -26,7 +26,7 @@ console.log(names)
 
 const numbers = [2, 4, 5, 29, 38];
 for (let i = 0; i < numbers.length; i++) {
-numbers[i] = numbers[i] * 3
+    numbers[i] = numbers[i] * 3
 }
 console.log(numbers)
 
@@ -45,7 +45,7 @@ console.log(numbers)
 // ==========================================
 
 const squares = [30, 2, 8, 24, 11];
-for (let i = 0; i <  squares.length ; i++) {
+for (let i = 0; i < squares.length; i++) {
     squares[i] = squares[i] * squares[i] * squares [i]
 
 }
